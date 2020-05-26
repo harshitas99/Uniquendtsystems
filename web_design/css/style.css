@@ -1,0 +1,111 @@
+h1{
+    font-family: Orbitron; 
+    font-weight:500;
+    font-size:45px;
+    text-align:center;
+    margin:auto;
+}
+h2{
+    color: #f31616;
+    font-family: auto;
+    font-weight: 100;
+}
+.navbar {
+  overflow: hidden; /* Hide overflow */
+  background-color: #041154; /* Dark background color */
+  color: #f2f2f2;
+   
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left; /* Make sure that the links stay side-by-side */
+  display:table; /* Change the display to block, for responsive reasons (see below) */
+  color: #ffffff; /* White text color */
+  text-align: center; /* Center the text */
+  padding: 14px 20px; /* Add some padding */
+  text-decoration: none; /* Remove underline */
+  border-bottom: 3px solid transparent;
+  position:relative;
+}
+footer {
+  border:transparent;
+  text-align: left; 
+  background: #01061f;
+}
+img{
+    width:90px;
+    height:65px;
+    vertical-align:middle;
+
+}
+div{
+    text-align:left;
+    color:#666666;
+    
+
+}
+h4{
+    text-align:center;
+    font-family:cursive;
+    margin:auto;
+    font-family: monospace;
+    font-size:15px;
+}
+a:hover{
+  background:#9e9e9e;
+  color:#f9f9f9;
+  border-bottom: 3px solid white;
+}
+a:focus{
+  background:#9e9e9e;
+  color:#f9f9f9;
+}
+a:active{
+  border: 1px solid #000000;
+  border-bottom: 3px solid white;
+}
+.active{
+  background:#695f5f;
+}
+p{
+    display:inline;
+    -webkit-user-modify: read-only;
+    font: icon;
+    text-align:center;
+    margin:auto;
+    float:center;
+}
+.a{
+    float:center;
+    }
+ul{
+    font: icon;
+}
+.center {
+  margin: auto;
+  width: 60%;
+  border: transparent;
+  padding: 10px;
+  text-align:left;
+}
+.call-us{
+    margin:auto;
+    padding-left: 900px;
+}
+.contact{
+    margin:auto;
+    width:50%;
+    border: transparent;
+    padding:20px;
+    text-align:center-left;
+}
+h5{
+    font-size: 15px;
+    font-weight: 400;
+    color: aliceblue;
+}
+h3{
+    font-size:20px;
+    color: #edf9f9;
+}
